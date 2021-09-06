@@ -1,3 +1,4 @@
 DATA SCIENCE RESOLUSI
 -- Berlatih SQL
 -- Belajar di Coursera
+--Belajar di DQ Lab
